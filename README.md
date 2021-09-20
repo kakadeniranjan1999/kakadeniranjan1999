@@ -89,6 +89,6 @@
 <br>
 <br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='utils/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/niranjan-kakade-8b6875159'> <img width = '40' align= 'center' src="utils/linkedin_logo.png" hspace="10"/></a> 
 <a href = 'https://github.com/kakadeniranjan1999'> <img width = '40' align= 'center' src="utils/github_logo.png" hspace="10"/></a>
