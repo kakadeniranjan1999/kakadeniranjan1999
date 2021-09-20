@@ -78,7 +78,7 @@
 
 ## GitHub's Activity Overview
   
-| ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kakadeniranjan1999&theme=flag-india)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kakadeniranjan1999&bg_color=fffff0&color=3572a5&line=ff8f1d&point=509e2f&area=true&hide_border=true)
 
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=kakadeniranjan1999&show_icons=true&theme=flag-india) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kakadeniranjan1999&theme=flag-india)
 | --- | --- |
