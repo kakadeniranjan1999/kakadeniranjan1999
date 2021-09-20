@@ -1,5 +1,5 @@
 <div align="center">
-<img width="60%" height = "60%" src="utils/cover.gif" alt="cover" />
+<img width="60%" height = "60%" src="utils/cover_image.gif" alt="cover" />
 </div>
 
 # Hello and Welcome!!! <img src = "utils/wave.gif" width = 30px>
