@@ -15,7 +15,7 @@
 
 ## About Me
 
-<img width="55%" align="right" alt="Github" src="utils/neural_network.png" />
+<img width="55%" align="right" alt="Github" src="utils/rl_agent_animation.gif" />
 
 
 - 🔭 I’m passionate about AI and Robotics
