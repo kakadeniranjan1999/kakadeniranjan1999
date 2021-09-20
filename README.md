@@ -15,7 +15,7 @@
 
 ## About Me
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="utils/neural_network.png" />
 
 
 - 🔭 I’m passionate about AI and Robotics
