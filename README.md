@@ -82,7 +82,7 @@
 
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=kakadeniranjan1999&show_icons=true&theme=flag-india) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kakadeniranjan1999&theme=flag-india)
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakadeniranjan1999&theme=flag-india) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kakadeniranjan1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=flag-india) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakadeniranjan1999&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kakadeniranjan1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=flag-india) |
 
 
 <br>
