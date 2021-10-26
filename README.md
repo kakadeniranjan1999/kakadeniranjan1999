@@ -68,6 +68,7 @@
     <a href="https://www.jetbrains.com/pycharm/"> <img src="utils/pycharm_logo.png" alt="pycharm" width="60" height="60" hspace="10"/> </a>
     <a href="https://www.jetbrains.com/clion/"> <img src="utils/cLion_logo.png" alt="clion" width="60" height="60" hspace="10" /> </a>
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="utils/spyder_logo.png" alt="spyder" width="60" height="60" hspace="10" /> </a> 
+    <a href="https://jupyter.org/" target="_blank"> <img src="utils/jupyter_logo.png" alt="jupyter" width="50" height="60" hspace="10" /> </a>
     <a href="https://colab.research.google.com/" target="_blank"> <img src="utils/colab_logo.png" alt="google colab" width="60" height="60" hspace="10" /> </a>
     <a href="https://www.mathworks.com/products/matlab.html"> <img src="utils/matlab_logo.png" alt="matlab" width="60" height="60" hspace="10" /></a>
 </p>
