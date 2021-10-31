@@ -1490,7 +1490,7 @@
 	img {
 	    display: block;
 	    margin: auto;
-	    height: 155%;
+	    height: 100%;
 	    width: auto;
 	}
 
@@ -2822,7 +2822,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: rgba(132, 165, 201, 0.13);
+			background-color: rgba(141, 161, 180, 0.13);
 			color: #d3d4e4;
 		}
 
@@ -3183,7 +3183,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: rgba(132, 165, 201, 0.13);
+		background: rgba(141, 161, 180, 0.13);
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
