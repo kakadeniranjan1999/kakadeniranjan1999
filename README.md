@@ -47,6 +47,7 @@
 ## ⭐️ Libraries and Frameworks:
 
 <p align="left">  
+     <a href="https://https://pytorch.org/" target="_blank"> <img src="utils/pytorch_logo.png" alt="pytorch" width="120" height="60" hspace="11" /> </a>
      <a href="https://www.tensorflow.org" target="_blank"> <img src="utils/tensorflow_logo.png" alt="tensorflow" width="60" height="60" hspace="11" /> </a>
     <a href="https://keras.io/" target="_blank"> <img src="utils/keras_logo.png" alt="keras" width="60" height="60" hspace="11" /> </a>   
     <a href="https://scikit-learn.org/" target="_blank"> <img src="utils/scikit-learn_logo.png" alt="scikit_learn" width="70" height="60" hspace="10" /> </a>
